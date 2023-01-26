@@ -16,6 +16,9 @@ I'm an aspiring roboticist with a passion for robotics, machine learning, artifi
 - Assembling a Petoi Bittle robot, and using deep rl to teach it how to walk with the help of Nvidia's Isaam-Gym. The final model will be applied to the robot using sim-to-real practices: ![](https://geps.dev/progress/50)
 - 3D printing and assembling a 6 DOF arm, and using a kinect RGB-D camera along with deep multi-agent rl to teach it chess: ![](https://geps.dev/progress/10)
 
+## Published Papers :newspaper:
+- [Graph Learning based Decision Support for Multi-Aircraft Take-Off and Landing at Urban Air Mobility Vertiports](https://arc.aiaa.org/doi/10.2514/6.2023-1848)
+
 
 
 <!--
