@@ -11,11 +11,12 @@ I'm an aspiring roboticist with a passion for robotics, machine learning, artifi
 - Implementing priority surveillance modes for a scalable coverage and path planning algorithm: ![](https://geps.dev/progress/100)
 - Developing a multi-agent dimensionality reduction agent which uses a CNN to effectively downsample observation data: ![](https://geps.dev/progress/50)
 - Designing a forex trading agent which takes in multiple timeframes worth of data to make live trades: ![](https://geps.dev/progress/50)
+- Creating a natural language processing (NLP) model for integration with messaging applications. To do this, we are using the three step process from [OpenAI's InstructGPT](https://arxiv.org/pdf/2203.02155.pdf) and using the [openwebtext](https://huggingface.co/datasets/openwebtext) and [twitter](https://www.kaggle.com/datasets/kazanova/sentiment140) unsupervised datasets. ![](https://geps.dev/progress/30)
 
 ## Personal Projects 👨‍🔬
 - Assembling a Petoi Bittle robot, and using deep rl to teach it how to walk with the help of Nvidia's Isaam-Gym. The final model will be applied to the robot using sim-to-real practices: ![](https://geps.dev/progress/50)
 - Building a chess engine from scratch and training a multi-agent RL chess agent: ![](https://geps.dev/progress/70)
-- 3D printing and assembling a 6 DOF arm, and using a kinect RGB-D camera along with ROS MoveIt! to control it for tasks: ![](https://geps.dev/progress/10)
+- Modeling, 3D printing and assembling a 6 DOF arm from scratch, and using a kinect RGB-D camera along with ROS MoveIt! to control it for tasks: ![](https://geps.dev/progress/10)
 
 ## Published Papers :newspaper:
 - [Graph Learning based Decision Support for Multi-Aircraft Take-Off and Landing at Urban Air Mobility Vertiports](https://arc.aiaa.org/doi/10.2514/6.2023-1848)
