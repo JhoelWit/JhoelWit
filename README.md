@@ -19,7 +19,8 @@ I'm an aspiring roboticist with a passion for robotics, machine learning, artifi
 - Modeling, 3D printing and assembling a 6 DOF arm from scratch, and using a kinect RGB-D camera along with ROS MoveIt! to control it for tasks: ![](https://geps.dev/progress/10)
 
 ## Published Papers :newspaper:
-- [Graph Learning based Decision Support for Multi-Aircraft Take-Off and Landing at Urban Air Mobility Vertiports](https://arc.aiaa.org/doi/10.2514/6.2023-1848)
+- [Graph Learning based Decision Support for Multi-Aircraft Take-Off and Landing at Urban Air Mobility Vertiports](https://arxiv.org/abs/2302.05849)
+- [Efficient Concurrent Design of the Morphology of Unmanned Aerial Systems and their Collective-Search Behavior ](https://arxiv.org/abs/2209.13041)
 
 
 
